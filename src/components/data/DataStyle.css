@@ -82,3 +82,23 @@ section .title::after {
     background: none;
     border: 2px solid var(--primary-color);
 }
+
+@media (max-width: 940px) {
+    .data {
+        padding: 10px 0;
+    }
+
+    .data .content .column {
+        width: 100%;
+    }
+
+    .data .content .left {
+        display: flex;
+        justify-content: center;
+        margin: 0 auto 50px;
+    }
+
+    .data .content .right {
+        margin: 0 2rem 50px;
+    }
+}

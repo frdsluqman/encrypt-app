@@ -33,8 +33,11 @@
 }
 
 @media screen and (max-width: 940px) {
+    .container {
+        padding: 1rem 0;
+    }
     .hero .content {
-        margin-left: 3rem;
+        margin-left: 2rem;
     }
 
     .hero h1 {

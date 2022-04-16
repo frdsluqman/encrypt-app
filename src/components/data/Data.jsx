@@ -19,7 +19,7 @@ const Data = () => {
               architecto corporis consequuntur in quidem et esse, sequi
               consequatur maxime, vero libero! Fugiat omnis aperiam optio
               suscipit consectetur eum id!
-            </p>
+            </p> 
             <div>
               <a href="#" className="learn">Learn More</a>
             </div>
