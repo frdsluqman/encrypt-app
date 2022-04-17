@@ -15,10 +15,7 @@ const Data = () => {
               <span>Data</span> Encrypted
             </h2>
             <p>
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eius quo
-              architecto corporis consequuntur in quidem et esse, sequi
-              consequatur maxime, vero libero! Fugiat omnis aperiam optio
-              suscipit consectetur eum id!
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit temporibus doloribus aperiam, iste assumenda sed vero nam a quaerat nemo? Nisi, accusamus dolores? Aliquid ratione quibusdam architecto similique, nulla vitae et unde minus sed in dignissimos animi eum magni earum. Odit ut architecto nobis tempora, fuga tenetur hic libero quia veniam iste delectus optio vero sint quidem laborum maxime ad quas, provident nostrum temporibus dolore voluptatibus. Eius suscipit dolor quisquam ipsam maiores voluptate facere incidunt architecto repellendus voluptas! Architecto, enim.
             </p> 
             <div>
               <a href="#" className="learn">Learn More</a>
